@@ -1,3 +1,4 @@
+# You can set pixel code in System->Config->Facebook Ads Toolbox (Ignore Menù Item cause Is Broken)
 
 # Facebook Ads Extension For Magento
 
